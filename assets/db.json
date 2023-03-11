@@ -1,0 +1,28 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Luis",
+      "correo": "luis@gmail.com",
+      "telefono": "564-54544"
+    },
+    {
+      "nombre": "Jose",
+      "correo": "josepereira@gmail.com",
+      "telefono": "6528-4537",
+      "id": 3
+    },
+    {
+      "nombre": "maria",
+      "correo": "mariapatafria@hotmail.com",
+      "telefono": "6221-9458",
+      "id": 4
+    },
+    {
+      "nombre": "alex",
+      "correo": "alexmirror@hotmail.com",
+      "telefono": "6597-5789",
+      "id": 5
+    }
+  ]
+}
